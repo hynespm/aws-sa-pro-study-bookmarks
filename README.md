@@ -8,6 +8,11 @@ The repository contains a bookmarks.html file that lists links which are useful 
 
 * Chrome - import bookmarks.html file into bookmarks manager
 
+## Repository Structure
+
+* [bookmarks.html](bookmarks.html)
+* [README.md](README.md)
+
 ### Bookmark Structure
 
 
